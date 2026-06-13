@@ -1,0 +1,58 @@
+{
+  "unknown_words": [],
+  "current_batch": {
+    "batch_number": 1,
+    "words": [
+      {
+        "number": 1,
+        "english": "introduce",
+        "ukrainian": "представляти(ся)"
+      },
+      {
+        "number": 2,
+        "english": "explain",
+        "ukrainian": "пояснювати"
+      },
+      {
+        "number": 3,
+        "english": "improve",
+        "ukrainian": "покращувати"
+      },
+      {
+        "number": 4,
+        "english": "practice",
+        "ukrainian": "практикувати(ся)"
+      },
+      {
+        "number": 5,
+        "english": "remember",
+        "ukrainian": "пам'ятати"
+      },
+      {
+        "number": 6,
+        "english": "forget",
+        "ukrainian": "забувати"
+      },
+      {
+        "number": 7,
+        "english": "agree",
+        "ukrainian": "погоджуватися"
+      },
+      {
+        "number": 8,
+        "english": "decide",
+        "ukrainian": "вирішувати"
+      },
+      {
+        "number": 9,
+        "english": "share",
+        "ukrainian": "ділитися"
+      },
+      {
+        "number": 10,
+        "english": "suggest",
+        "ukrainian": "пропонувати"
+      }
+    ]
+  }
+}
