@@ -17,260 +17,290 @@
       "ukrainian": "позичати комусь",
       "source_batch_number": 4,
       "source_number": 41
+    },
+    {
+      "english": "become",
+      "ukrainian": "ставати",
+      "source_batch_number": 5,
+      "source_number": 7
+    },
+    {
+      "english": "pass",
+      "ukrainian": "проходити, складати",
+      "source_batch_number": 5,
+      "source_number": 25
+    },
+    {
+      "english": "refuse",
+      "ukrainian": "відмовлятися",
+      "source_batch_number": 5,
+      "source_number": 32
+    },
+    {
+      "english": "consider",
+      "ukrainian": "розглядати, вважати",
+      "source_batch_number": 5,
+      "source_number": 37
+    },
+    {
+      "english": "reach",
+      "ukrainian": "досягати, діставатися",
+      "source_batch_number": 5,
+      "source_number": 42
     }
   ],
   "current_batch": {
-    "batch_number": 5,
+    "batch_number": 6,
     "words": [
       {
         "number": 1,
-        "english": "think",
-        "ukrainian": "думати"
-      },
-      {
-        "number": 2,
-        "english": "know",
-        "ukrainian": "знати"
-      },
-      {
-        "number": 3,
-        "english": "see",
-        "ukrainian": "бачити"
-      },
-      {
-        "number": 4,
-        "english": "look",
-        "ukrainian": "дивитися, виглядати"
-      },
-      {
-        "number": 5,
-        "english": "hear",
-        "ukrainian": "чути"
-      },
-      {
-        "number": 6,
-        "english": "say",
-        "ukrainian": "казати"
-      },
-      {
-        "number": 7,
-        "english": "become",
-        "ukrainian": "ставати"
-      },
-      {
-        "number": 8,
-        "english": "seem",
-        "ukrainian": "здаватися"
-      },
-      {
-        "number": 9,
-        "english": "keep",
-        "ukrainian": "тримати, зберігати"
-      },
-      {
-        "number": 10,
-        "english": "let",
+        "english": "allow",
         "ukrainian": "дозволяти"
       },
       {
+        "number": 2,
+        "english": "avoid",
+        "ukrainian": "уникати"
+      },
+      {
+        "number": 3,
+        "english": "belong",
+        "ukrainian": "належати"
+      },
+      {
+        "number": 4,
+        "english": "collect",
+        "ukrainian": "збирати"
+      },
+      {
+        "number": 5,
+        "english": "connect",
+        "ukrainian": "з’єднувати"
+      },
+      {
+        "number": 6,
+        "english": "count",
+        "ukrainian": "рахувати"
+      },
+      {
+        "number": 7,
+        "english": "cover",
+        "ukrainian": "покривати"
+      },
+      {
+        "number": 8,
+        "english": "cross",
+        "ukrainian": "перетинати"
+      },
+      {
+        "number": 9,
+        "english": "deal",
+        "ukrainian": "мати справу"
+      },
+      {
+        "number": 10,
+        "english": "drop",
+        "ukrainian": "кидати, падати"
+      },
+      {
         "number": 11,
-        "english": "mean",
-        "ukrainian": "означати"
+        "english": "earn",
+        "ukrainian": "заробляти"
       },
       {
         "number": 12,
-        "english": "put",
-        "ukrainian": "класти"
+        "english": "enter",
+        "ukrainian": "входити"
       },
       {
         "number": 13,
-        "english": "take",
-        "ukrainian": "брати"
+        "english": "escape",
+        "ukrainian": "тікати, уникати"
       },
       {
         "number": 14,
-        "english": "give",
-        "ukrainian": "давати"
+        "english": "fill",
+        "ukrainian": "заповнювати"
       },
       {
         "number": 15,
-        "english": "make",
-        "ukrainian": "робити, створювати"
+        "english": "guess",
+        "ukrainian": "здогадуватися"
       },
       {
         "number": 16,
-        "english": "get",
-        "ukrainian": "отримувати, діставатися"
+        "english": "handle",
+        "ukrainian": "справлятися, обробляти"
       },
       {
         "number": 17,
-        "english": "come",
-        "ukrainian": "приходити"
+        "english": "hide",
+        "ukrainian": "ховати(ся)"
       },
       {
         "number": 18,
-        "english": "go",
-        "ukrainian": "йти, їхати"
+        "english": "hold",
+        "ukrainian": "тримати"
       },
       {
         "number": 19,
-        "english": "eat",
-        "ukrainian": "їсти"
+        "english": "hurt",
+        "ukrainian": "боліти, завдавати болю"
       },
       {
         "number": 20,
-        "english": "drink",
-        "ukrainian": "пити"
+        "english": "kill",
+        "ukrainian": "вбивати"
       },
       {
         "number": 21,
-        "english": "sleep",
-        "ukrainian": "спати"
+        "english": "laugh",
+        "ukrainian": "сміятися"
       },
       {
         "number": 22,
-        "english": "wake",
-        "ukrainian": "прокидатися"
+        "english": "lie",
+        "ukrainian": "лежати, брехати"
       },
       {
         "number": 23,
-        "english": "win",
-        "ukrainian": "перемагати"
+        "english": "lift",
+        "ukrainian": "піднімати"
       },
       {
         "number": 24,
-        "english": "fail",
-        "ukrainian": "зазнавати невдачі"
+        "english": "marry",
+        "ukrainian": "одружуватися"
       },
       {
         "number": 25,
-        "english": "pass",
-        "ukrainian": "проходити, складати"
+        "english": "mind",
+        "ukrainian": "мати проти"
       },
       {
         "number": 26,
-        "english": "teach",
-        "ukrainian": "навчати"
+        "english": "mix",
+        "ukrainian": "змішувати"
       },
       {
         "number": 27,
-        "english": "study",
-        "ukrainian": "навчатися, вивчати"
+        "english": "order",
+        "ukrainian": "замовляти, наказувати"
       },
       {
         "number": 28,
-        "english": "include",
-        "ukrainian": "включати"
+        "english": "own",
+        "ukrainian": "володіти"
       },
       {
         "number": 29,
-        "english": "expect",
-        "ukrainian": "очікувати"
+        "english": "pick",
+        "ukrainian": "вибирати, піднімати"
       },
       {
         "number": 30,
-        "english": "offer",
-        "ukrainian": "пропонувати"
+        "english": "push",
+        "ukrainian": "штовхати"
       },
       {
         "number": 31,
-        "english": "accept",
-        "ukrainian": "приймати"
+        "english": "pull",
+        "ukrainian": "тягнути"
       },
       {
         "number": 32,
-        "english": "refuse",
-        "ukrainian": "відмовлятися"
+        "english": "raise",
+        "ukrainian": "піднімати, виховувати"
       },
       {
         "number": 33,
-        "english": "imagine",
-        "ukrainian": "уявляти"
+        "english": "rent",
+        "ukrainian": "орендувати"
       },
       {
         "number": 34,
-        "english": "notice",
-        "ukrainian": "помічати"
+        "english": "repair",
+        "ukrainian": "ремонтувати"
       },
       {
         "number": 35,
-        "english": "check",
-        "ukrainian": "перевіряти"
+        "english": "replace",
+        "ukrainian": "замінювати"
       },
       {
         "number": 36,
-        "english": "compare",
-        "ukrainian": "порівнювати"
+        "english": "rest",
+        "ukrainian": "відпочивати"
       },
       {
         "number": 37,
-        "english": "consider",
-        "ukrainian": "розглядати, вважати"
+        "english": "ride",
+        "ukrainian": "їздити верхи/на транспорті"
       },
       {
         "number": 38,
-        "english": "continue",
-        "ukrainian": "продовжувати"
+        "english": "risk",
+        "ukrainian": "ризикувати"
       },
       {
         "number": 39,
-        "english": "stop",
-        "ukrainian": "зупиняти(ся)"
+        "english": "search",
+        "ukrainian": "шукати"
       },
       {
         "number": 40,
-        "english": "turn",
-        "ukrainian": "повертати(ся)"
+        "english": "serve",
+        "ukrainian": "обслуговувати, служити"
       },
       {
         "number": 41,
-        "english": "return",
-        "ukrainian": "повертатися, повертати"
+        "english": "shake",
+        "ukrainian": "трясти"
       },
       {
         "number": 42,
-        "english": "reach",
-        "ukrainian": "досягати, діставатися"
+        "english": "shoot",
+        "ukrainian": "стріляти"
       },
       {
         "number": 43,
-        "english": "miss",
-        "ukrainian": "сумувати, пропускати"
+        "english": "sign",
+        "ukrainian": "підписувати"
       },
       {
         "number": 44,
-        "english": "protect",
-        "ukrainian": "захищати"
+        "english": "smile",
+        "ukrainian": "усміхатися"
       },
       {
         "number": 45,
-        "english": "support",
-        "ukrainian": "підтримувати"
+        "english": "sound",
+        "ukrainian": "звучати"
       },
       {
         "number": 46,
-        "english": "reduce",
-        "ukrainian": "зменшувати"
+        "english": "stay",
+        "ukrainian": "залишатися"
       },
       {
         "number": 47,
-        "english": "increase",
-        "ukrainian": "збільшувати"
+        "english": "steal",
+        "ukrainian": "красти"
       },
       {
         "number": 48,
-        "english": "promise",
-        "ukrainian": "обіцяти"
+        "english": "taste",
+        "ukrainian": "куштувати, мати смак"
       },
       {
         "number": 49,
-        "english": "depend",
-        "ukrainian": "залежати"
+        "english": "throw",
+        "ukrainian": "кидати"
       },
       {
         "number": 50,
-        "english": "matter",
-        "ukrainian": "мати значення"
+        "english": "touch",
+        "ukrainian": "торкатися"
       }
     ]
   }
