@@ -119,6 +119,66 @@
       "number": 10,
       "english": "describe",
       "ukrainian": "описувати"
+    },
+    {
+      "batch_number": 3,
+      "number": 1,
+      "english": "arrive",
+      "ukrainian": "прибувати"
+    },
+    {
+      "batch_number": 3,
+      "number": 2,
+      "english": "leave",
+      "ukrainian": "залишати, їхати"
+    },
+    {
+      "batch_number": 3,
+      "number": 3,
+      "english": "bring",
+      "ukrainian": "приносити"
+    },
+    {
+      "batch_number": 3,
+      "number": 4,
+      "english": "carry",
+      "ukrainian": "нести"
+    },
+    {
+      "batch_number": 3,
+      "number": 5,
+      "english": "wait",
+      "ukrainian": "чекати"
+    },
+    {
+      "batch_number": 3,
+      "number": 6,
+      "english": "meet",
+      "ukrainian": "зустрічати(ся)"
+    },
+    {
+      "batch_number": 3,
+      "number": 7,
+      "english": "call",
+      "ukrainian": "дзвонити, називати"
+    },
+    {
+      "batch_number": 3,
+      "number": 8,
+      "english": "try",
+      "ukrainian": "пробувати"
+    },
+    {
+      "batch_number": 3,
+      "number": 9,
+      "english": "learn",
+      "ukrainian": "вчитися, дізнаватися"
+    },
+    {
+      "batch_number": 3,
+      "number": 10,
+      "english": "change",
+      "ukrainian": "змінювати(ся)"
     }
   ]
 }

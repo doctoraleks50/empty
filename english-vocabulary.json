@@ -1,57 +1,64 @@
 {
-  "unknown_words": [],
+  "unknown_words": [
+    {
+      "english": "carry",
+      "ukrainian": "нести",
+      "source_batch_number": 3,
+      "source_number": 4
+    }
+  ],
   "current_batch": {
-    "batch_number": 3,
+    "batch_number": 4,
     "words": [
       {
         "number": 1,
-        "english": "arrive",
-        "ukrainian": "прибувати"
+        "english": "find",
+        "ukrainian": "знаходити"
       },
       {
         "number": 2,
-        "english": "leave",
-        "ukrainian": "залишати, їхати"
+        "english": "lose",
+        "ukrainian": "втрачати"
       },
       {
         "number": 3,
-        "english": "bring",
-        "ukrainian": "приносити"
+        "english": "buy",
+        "ukrainian": "купувати"
       },
       {
         "number": 4,
-        "english": "carry",
-        "ukrainian": "нести"
+        "english": "sell",
+        "ukrainian": "продавати"
       },
       {
         "number": 5,
-        "english": "wait",
-        "ukrainian": "чекати"
+        "english": "pay",
+        "ukrainian": "платити"
       },
       {
         "number": 6,
-        "english": "meet",
-        "ukrainian": "зустрічати(ся)"
+        "english": "spend",
+        "ukrainian": "витрачати, проводити час"
       },
       {
         "number": 7,
-        "english": "call",
-        "ukrainian": "дзвонити, називати"
+        "english": "live",
+        "ukrainian": "жити"
       },
       {
         "number": 8,
-        "english": "try",
-        "ukrainian": "пробувати"
+        "english": "work",
+        "ukrainian": "працювати"
       },
       {
         "number": 9,
-        "english": "learn",
-        "ukrainian": "вчитися, дізнаватися"
+        "english": "visit",
+        "ukrainian": "відвідувати"
       },
       {
         "number": 10,
-        "english": "change",
-        "ukrainian": "змінювати(ся)"
+        "english": "travel",
+        "ukrainian": "подорожувати"
       }
     ]
   }
