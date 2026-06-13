@@ -779,6 +779,306 @@
       "number": 50,
       "english": "matter",
       "ukrainian": "мати значення"
+    },
+    {
+      "batch_number": 6,
+      "number": 1,
+      "english": "allow",
+      "ukrainian": "дозволяти"
+    },
+    {
+      "batch_number": 6,
+      "number": 2,
+      "english": "avoid",
+      "ukrainian": "уникати"
+    },
+    {
+      "batch_number": 6,
+      "number": 3,
+      "english": "belong",
+      "ukrainian": "належати"
+    },
+    {
+      "batch_number": 6,
+      "number": 4,
+      "english": "collect",
+      "ukrainian": "збирати"
+    },
+    {
+      "batch_number": 6,
+      "number": 5,
+      "english": "connect",
+      "ukrainian": "з’єднувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 6,
+      "english": "count",
+      "ukrainian": "рахувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 7,
+      "english": "cover",
+      "ukrainian": "покривати"
+    },
+    {
+      "batch_number": 6,
+      "number": 8,
+      "english": "cross",
+      "ukrainian": "перетинати"
+    },
+    {
+      "batch_number": 6,
+      "number": 9,
+      "english": "deal",
+      "ukrainian": "мати справу"
+    },
+    {
+      "batch_number": 6,
+      "number": 10,
+      "english": "drop",
+      "ukrainian": "кидати, падати"
+    },
+    {
+      "batch_number": 6,
+      "number": 11,
+      "english": "earn",
+      "ukrainian": "заробляти"
+    },
+    {
+      "batch_number": 6,
+      "number": 12,
+      "english": "enter",
+      "ukrainian": "входити"
+    },
+    {
+      "batch_number": 6,
+      "number": 13,
+      "english": "escape",
+      "ukrainian": "тікати, уникати"
+    },
+    {
+      "batch_number": 6,
+      "number": 14,
+      "english": "fill",
+      "ukrainian": "заповнювати"
+    },
+    {
+      "batch_number": 6,
+      "number": 15,
+      "english": "guess",
+      "ukrainian": "здогадуватися"
+    },
+    {
+      "batch_number": 6,
+      "number": 16,
+      "english": "handle",
+      "ukrainian": "справлятися, обробляти"
+    },
+    {
+      "batch_number": 6,
+      "number": 17,
+      "english": "hide",
+      "ukrainian": "ховати(ся)"
+    },
+    {
+      "batch_number": 6,
+      "number": 18,
+      "english": "hold",
+      "ukrainian": "тримати"
+    },
+    {
+      "batch_number": 6,
+      "number": 19,
+      "english": "hurt",
+      "ukrainian": "боліти, завдавати болю"
+    },
+    {
+      "batch_number": 6,
+      "number": 20,
+      "english": "kill",
+      "ukrainian": "вбивати"
+    },
+    {
+      "batch_number": 6,
+      "number": 21,
+      "english": "laugh",
+      "ukrainian": "сміятися"
+    },
+    {
+      "batch_number": 6,
+      "number": 22,
+      "english": "lie",
+      "ukrainian": "лежати, брехати"
+    },
+    {
+      "batch_number": 6,
+      "number": 23,
+      "english": "lift",
+      "ukrainian": "піднімати"
+    },
+    {
+      "batch_number": 6,
+      "number": 24,
+      "english": "marry",
+      "ukrainian": "одружуватися"
+    },
+    {
+      "batch_number": 6,
+      "number": 25,
+      "english": "mind",
+      "ukrainian": "мати проти"
+    },
+    {
+      "batch_number": 6,
+      "number": 26,
+      "english": "mix",
+      "ukrainian": "змішувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 27,
+      "english": "order",
+      "ukrainian": "замовляти, наказувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 28,
+      "english": "own",
+      "ukrainian": "володіти"
+    },
+    {
+      "batch_number": 6,
+      "number": 29,
+      "english": "pick",
+      "ukrainian": "вибирати, піднімати"
+    },
+    {
+      "batch_number": 6,
+      "number": 30,
+      "english": "push",
+      "ukrainian": "штовхати"
+    },
+    {
+      "batch_number": 6,
+      "number": 31,
+      "english": "pull",
+      "ukrainian": "тягнути"
+    },
+    {
+      "batch_number": 6,
+      "number": 32,
+      "english": "raise",
+      "ukrainian": "піднімати, виховувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 33,
+      "english": "rent",
+      "ukrainian": "орендувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 34,
+      "english": "repair",
+      "ukrainian": "ремонтувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 35,
+      "english": "replace",
+      "ukrainian": "замінювати"
+    },
+    {
+      "batch_number": 6,
+      "number": 36,
+      "english": "rest",
+      "ukrainian": "відпочивати"
+    },
+    {
+      "batch_number": 6,
+      "number": 37,
+      "english": "ride",
+      "ukrainian": "їздити верхи/на транспорті"
+    },
+    {
+      "batch_number": 6,
+      "number": 38,
+      "english": "risk",
+      "ukrainian": "ризикувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 39,
+      "english": "search",
+      "ukrainian": "шукати"
+    },
+    {
+      "batch_number": 6,
+      "number": 40,
+      "english": "serve",
+      "ukrainian": "обслуговувати, служити"
+    },
+    {
+      "batch_number": 6,
+      "number": 41,
+      "english": "shake",
+      "ukrainian": "трясти"
+    },
+    {
+      "batch_number": 6,
+      "number": 42,
+      "english": "shoot",
+      "ukrainian": "стріляти"
+    },
+    {
+      "batch_number": 6,
+      "number": 43,
+      "english": "sign",
+      "ukrainian": "підписувати"
+    },
+    {
+      "batch_number": 6,
+      "number": 44,
+      "english": "smile",
+      "ukrainian": "усміхатися"
+    },
+    {
+      "batch_number": 6,
+      "number": 45,
+      "english": "sound",
+      "ukrainian": "звучати"
+    },
+    {
+      "batch_number": 6,
+      "number": 46,
+      "english": "stay",
+      "ukrainian": "залишатися"
+    },
+    {
+      "batch_number": 6,
+      "number": 47,
+      "english": "steal",
+      "ukrainian": "красти"
+    },
+    {
+      "batch_number": 6,
+      "number": 48,
+      "english": "taste",
+      "ukrainian": "куштувати, мати смак"
+    },
+    {
+      "batch_number": 6,
+      "number": 49,
+      "english": "throw",
+      "ukrainian": "кидати"
+    },
+    {
+      "batch_number": 6,
+      "number": 50,
+      "english": "touch",
+      "ukrainian": "торкатися"
     }
   ]
 }
