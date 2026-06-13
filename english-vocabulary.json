@@ -113,260 +113,368 @@
       "ukrainian": "красти",
       "source_batch_number": 6,
       "source_number": 47
+    },
+    {
+      "english": "advise",
+      "ukrainian": "радити",
+      "source_batch_number": 7,
+      "source_number": 1
+    },
+    {
+      "english": "announce",
+      "ukrainian": "оголошувати",
+      "source_batch_number": 7,
+      "source_number": 2
+    },
+    {
+      "english": "apologize",
+      "ukrainian": "вибачатися",
+      "source_batch_number": 7,
+      "source_number": 3
+    },
+    {
+      "english": "argue",
+      "ukrainian": "сперечатися",
+      "source_batch_number": 7,
+      "source_number": 6
+    },
+    {
+      "english": "attend",
+      "ukrainian": "відвідувати, бути присутнім",
+      "source_batch_number": 7,
+      "source_number": 9
+    },
+    {
+      "english": "behave",
+      "ukrainian": "поводитися",
+      "source_batch_number": 7,
+      "source_number": 10
+    },
+    {
+      "english": "chase",
+      "ukrainian": "переслідувати",
+      "source_batch_number": 7,
+      "source_number": 14
+    },
+    {
+      "english": "climb",
+      "ukrainian": "підніматися, лізти",
+      "source_batch_number": 7,
+      "source_number": 15
+    },
+    {
+      "english": "complain",
+      "ukrainian": "скаржитися",
+      "source_batch_number": 7,
+      "source_number": 16
+    },
+    {
+      "english": "doubt",
+      "ukrainian": "сумніватися",
+      "source_batch_number": 7,
+      "source_number": 25
+    },
+    {
+      "english": "encourage",
+      "ukrainian": "заохочувати",
+      "source_batch_number": 7,
+      "source_number": 27
+    },
+    {
+      "english": "express",
+      "ukrainian": "висловлювати",
+      "source_batch_number": 7,
+      "source_number": 29
+    },
+    {
+      "english": "feed",
+      "ukrainian": "годувати",
+      "source_batch_number": 7,
+      "source_number": 30
+    },
+    {
+      "english": "gain",
+      "ukrainian": "отримувати, набирати",
+      "source_batch_number": 7,
+      "source_number": 32
+    },
+    {
+      "english": "influence",
+      "ukrainian": "впливати",
+      "source_batch_number": 7,
+      "source_number": 35
+    },
+    {
+      "english": "knock",
+      "ukrainian": "стукати",
+      "source_batch_number": 7,
+      "source_number": 37
+    },
+    {
+      "english": "nod",
+      "ukrainian": "кивати",
+      "source_batch_number": 7,
+      "source_number": 41
+    },
+    {
+      "english": "prove",
+      "ukrainian": "доводити",
+      "source_batch_number": 7,
+      "source_number": 49
     }
   ],
   "current_batch": {
-    "batch_number": 7,
+    "batch_number": 8,
     "words": [
       {
         "number": 1,
-        "english": "advise",
-        "ukrainian": "радити"
+        "english": "react",
+        "ukrainian": "реагувати"
       },
       {
         "number": 2,
-        "english": "announce",
-        "ukrainian": "оголошувати"
+        "english": "recognize",
+        "ukrainian": "впізнавати, визнавати"
       },
       {
         "number": 3,
-        "english": "apologize",
-        "ukrainian": "вибачатися"
+        "english": "recommend",
+        "ukrainian": "рекомендувати"
       },
       {
         "number": 4,
-        "english": "appear",
-        "ukrainian": "з'являтися"
+        "english": "recover",
+        "ukrainian": "відновлюватися"
       },
       {
         "number": 5,
-        "english": "apply",
-        "ukrainian": "подавати заявку, застосовувати"
+        "english": "regret",
+        "ukrainian": "шкодувати"
       },
       {
         "number": 6,
-        "english": "argue",
-        "ukrainian": "сперечатися"
+        "english": "remind",
+        "ukrainian": "нагадувати"
       },
       {
         "number": 7,
-        "english": "arrange",
-        "ukrainian": "організовувати, домовлятися"
+        "english": "remove",
+        "ukrainian": "видаляти, прибирати"
       },
       {
         "number": 8,
-        "english": "attack",
-        "ukrainian": "атакувати"
+        "english": "repeat",
+        "ukrainian": "повторювати"
       },
       {
         "number": 9,
-        "english": "attend",
-        "ukrainian": "відвідувати, бути присутнім"
+        "english": "reply",
+        "ukrainian": "відповідати"
       },
       {
         "number": 10,
-        "english": "behave",
-        "ukrainian": "поводитися"
+        "english": "report",
+        "ukrainian": "повідомляти, звітувати"
       },
       {
         "number": 11,
-        "english": "breathe",
-        "ukrainian": "дихати"
+        "english": "request",
+        "ukrainian": "просити, запитувати"
       },
       {
         "number": 12,
-        "english": "burn",
-        "ukrainian": "горіти, спалювати"
+        "english": "rescue",
+        "ukrainian": "рятувати"
       },
       {
         "number": 13,
-        "english": "celebrate",
-        "ukrainian": "святкувати"
+        "english": "retire",
+        "ukrainian": "виходити на пенсію"
       },
       {
         "number": 14,
-        "english": "chase",
-        "ukrainian": "переслідувати"
+        "english": "review",
+        "ukrainian": "переглядати, рецензувати"
       },
       {
         "number": 15,
-        "english": "climb",
-        "ukrainian": "підніматися, лізти"
+        "english": "roll",
+        "ukrainian": "котитися, згортати"
       },
       {
         "number": 16,
-        "english": "complain",
-        "ukrainian": "скаржитися"
+        "english": "rule",
+        "ukrainian": "правити, керувати"
       },
       {
         "number": 17,
-        "english": "confirm",
-        "ukrainian": "підтверджувати"
+        "english": "sail",
+        "ukrainian": "плисти під вітрилом"
       },
       {
         "number": 18,
-        "english": "copy",
-        "ukrainian": "копіювати"
+        "english": "satisfy",
+        "ukrainian": "задовольняти"
       },
       {
         "number": 19,
-        "english": "cry",
-        "ukrainian": "плакати"
+        "english": "scream",
+        "ukrainian": "кричати"
       },
       {
         "number": 20,
-        "english": "dance",
-        "ukrainian": "танцювати"
+        "english": "select",
+        "ukrainian": "вибирати"
       },
       {
         "number": 21,
-        "english": "deliver",
-        "ukrainian": "доставляти"
+        "english": "separate",
+        "ukrainian": "розділяти"
       },
       {
         "number": 22,
-        "english": "destroy",
-        "ukrainian": "знищувати"
+        "english": "settle",
+        "ukrainian": "оселятися, вирішувати"
       },
       {
         "number": 23,
-        "english": "develop",
-        "ukrainian": "розвивати(ся)"
+        "english": "shine",
+        "ukrainian": "сяяти"
       },
       {
         "number": 24,
-        "english": "divide",
-        "ukrainian": "ділити"
+        "english": "shop",
+        "ukrainian": "купувати, ходити по магазинах"
       },
       {
         "number": 25,
-        "english": "doubt",
-        "ukrainian": "сумніватися"
+        "english": "shout",
+        "ukrainian": "кричати"
       },
       {
         "number": 26,
-        "english": "dress",
-        "ukrainian": "одягатися"
+        "english": "ski",
+        "ukrainian": "кататися на лижах"
       },
       {
         "number": 27,
-        "english": "encourage",
-        "ukrainian": "заохочувати"
+        "english": "solve",
+        "ukrainian": "вирішувати"
       },
       {
         "number": 28,
-        "english": "exist",
-        "ukrainian": "існувати"
+        "english": "sort",
+        "ukrainian": "сортувати"
       },
       {
         "number": 29,
-        "english": "express",
-        "ukrainian": "висловлювати"
+        "english": "spill",
+        "ukrainian": "розливати"
       },
       {
         "number": 30,
-        "english": "feed",
-        "ukrainian": "годувати"
+        "english": "spread",
+        "ukrainian": "поширювати"
       },
       {
         "number": 31,
-        "english": "forgive",
-        "ukrainian": "пробачати"
+        "english": "succeed",
+        "ukrainian": "досягати успіху"
       },
       {
         "number": 32,
-        "english": "gain",
-        "ukrainian": "отримувати, набирати"
+        "english": "suffer",
+        "ukrainian": "страждати"
       },
       {
         "number": 33,
-        "english": "hate",
-        "ukrainian": "ненавидіти"
+        "english": "suppose",
+        "ukrainian": "припускати"
       },
       {
         "number": 34,
-        "english": "identify",
-        "ukrainian": "визначати, ідентифікувати"
+        "english": "survive",
+        "ukrainian": "виживати"
       },
       {
         "number": 35,
-        "english": "influence",
-        "ukrainian": "впливати"
+        "english": "suspect",
+        "ukrainian": "підозрювати"
       },
       {
         "number": 36,
-        "english": "jump",
-        "ukrainian": "стрибати"
+        "english": "switch",
+        "ukrainian": "перемикати(ся)"
       },
       {
         "number": 37,
-        "english": "knock",
-        "ukrainian": "стукати"
+        "english": "train",
+        "ukrainian": "тренувати(ся)"
       },
       {
         "number": 38,
-        "english": "lead",
-        "ukrainian": "вести, очолювати"
+        "english": "trust",
+        "ukrainian": "довіряти"
       },
       {
         "number": 39,
-        "english": "manage",
-        "ukrainian": "керувати, справлятися"
+        "english": "type",
+        "ukrainian": "друкувати на клавіатурі"
       },
       {
         "number": 40,
-        "english": "mention",
-        "ukrainian": "згадувати"
+        "english": "unite",
+        "ukrainian": "об’єднувати(ся)"
       },
       {
         "number": 41,
-        "english": "nod",
-        "ukrainian": "кивати"
+        "english": "update",
+        "ukrainian": "оновлювати"
       },
       {
         "number": 42,
-        "english": "observe",
-        "ukrainian": "спостерігати"
+        "english": "warn",
+        "ukrainian": "попереджати"
       },
       {
         "number": 43,
-        "english": "pack",
-        "ukrainian": "пакувати"
+        "english": "waste",
+        "ukrainian": "марнувати"
       },
       {
         "number": 44,
-        "english": "paint",
-        "ukrainian": "фарбувати, малювати"
+        "english": "wave",
+        "ukrainian": "махати"
       },
       {
         "number": 45,
-        "english": "perform",
-        "ukrainian": "виконувати, виступати"
+        "english": "weigh",
+        "ukrainian": "важити"
       },
       {
         "number": 46,
-        "english": "press",
-        "ukrainian": "натискати"
+        "english": "welcome",
+        "ukrainian": "вітати"
       },
       {
         "number": 47,
-        "english": "prevent",
-        "ukrainian": "запобігати"
+        "english": "whisper",
+        "ukrainian": "шепотіти"
       },
       {
         "number": 48,
-        "english": "print",
-        "ukrainian": "друкувати"
+        "english": "wish",
+        "ukrainian": "бажати"
       },
       {
         "number": 49,
-        "english": "prove",
-        "ukrainian": "доводити"
+        "english": "wonder",
+        "ukrainian": "цікавитися, дивуватися"
       },
       {
         "number": 50,
-        "english": "relax",
-        "ukrainian": "розслаблятися"
+        "english": "wrap",
+        "ukrainian": "загортати"
       }
     ]
   }
