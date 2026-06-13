@@ -1,57 +1,57 @@
 {
   "unknown_words": [],
   "current_batch": {
-    "batch_number": 1,
+    "batch_number": 2,
     "words": [
       {
         "number": 1,
-        "english": "introduce",
-        "ukrainian": "представляти(ся)"
+        "english": "answer",
+        "ukrainian": "відповідати"
       },
       {
         "number": 2,
-        "english": "explain",
-        "ukrainian": "пояснювати"
+        "english": "ask",
+        "ukrainian": "питати"
       },
       {
         "number": 3,
-        "english": "improve",
-        "ukrainian": "покращувати"
+        "english": "listen",
+        "ukrainian": "слухати"
       },
       {
         "number": 4,
-        "english": "practice",
-        "ukrainian": "практикувати(ся)"
+        "english": "understand",
+        "ukrainian": "розуміти"
       },
       {
         "number": 5,
-        "english": "remember",
-        "ukrainian": "пам'ятати"
+        "english": "believe",
+        "ukrainian": "вірити"
       },
       {
         "number": 6,
-        "english": "forget",
-        "ukrainian": "забувати"
+        "english": "happen",
+        "ukrainian": "траплятися"
       },
       {
         "number": 7,
-        "english": "agree",
-        "ukrainian": "погоджуватися"
+        "english": "need",
+        "ukrainian": "потребувати"
       },
       {
         "number": 8,
-        "english": "decide",
-        "ukrainian": "вирішувати"
+        "english": "feel",
+        "ukrainian": "відчувати"
       },
       {
         "number": 9,
-        "english": "share",
-        "ukrainian": "ділитися"
+        "english": "choose",
+        "ukrainian": "обирати"
       },
       {
         "number": 10,
-        "english": "suggest",
-        "ukrainian": "пропонувати"
+        "english": "describe",
+        "ukrainian": "описувати"
       }
     ]
   }
