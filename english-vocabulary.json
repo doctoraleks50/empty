@@ -1,57 +1,57 @@
 {
   "unknown_words": [],
   "current_batch": {
-    "batch_number": 2,
+    "batch_number": 3,
     "words": [
       {
         "number": 1,
-        "english": "answer",
-        "ukrainian": "відповідати"
+        "english": "arrive",
+        "ukrainian": "прибувати"
       },
       {
         "number": 2,
-        "english": "ask",
-        "ukrainian": "питати"
+        "english": "leave",
+        "ukrainian": "залишати, їхати"
       },
       {
         "number": 3,
-        "english": "listen",
-        "ukrainian": "слухати"
+        "english": "bring",
+        "ukrainian": "приносити"
       },
       {
         "number": 4,
-        "english": "understand",
-        "ukrainian": "розуміти"
+        "english": "carry",
+        "ukrainian": "нести"
       },
       {
         "number": 5,
-        "english": "believe",
-        "ukrainian": "вірити"
+        "english": "wait",
+        "ukrainian": "чекати"
       },
       {
         "number": 6,
-        "english": "happen",
-        "ukrainian": "траплятися"
+        "english": "meet",
+        "ukrainian": "зустрічати(ся)"
       },
       {
         "number": 7,
-        "english": "need",
-        "ukrainian": "потребувати"
+        "english": "call",
+        "ukrainian": "дзвонити, називати"
       },
       {
         "number": 8,
-        "english": "feel",
-        "ukrainian": "відчувати"
+        "english": "try",
+        "ukrainian": "пробувати"
       },
       {
         "number": 9,
-        "english": "choose",
-        "ukrainian": "обирати"
+        "english": "learn",
+        "ukrainian": "вчитися, дізнаватися"
       },
       {
         "number": 10,
-        "english": "describe",
-        "ukrainian": "описувати"
+        "english": "change",
+        "ukrainian": "змінювати(ся)"
       }
     ]
   }

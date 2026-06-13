@@ -59,6 +59,66 @@
       "number": 10,
       "english": "suggest",
       "ukrainian": "пропонувати"
+    },
+    {
+      "batch_number": 2,
+      "number": 1,
+      "english": "answer",
+      "ukrainian": "відповідати"
+    },
+    {
+      "batch_number": 2,
+      "number": 2,
+      "english": "ask",
+      "ukrainian": "питати"
+    },
+    {
+      "batch_number": 2,
+      "number": 3,
+      "english": "listen",
+      "ukrainian": "слухати"
+    },
+    {
+      "batch_number": 2,
+      "number": 4,
+      "english": "understand",
+      "ukrainian": "розуміти"
+    },
+    {
+      "batch_number": 2,
+      "number": 5,
+      "english": "believe",
+      "ukrainian": "вірити"
+    },
+    {
+      "batch_number": 2,
+      "number": 6,
+      "english": "happen",
+      "ukrainian": "траплятися"
+    },
+    {
+      "batch_number": 2,
+      "number": 7,
+      "english": "need",
+      "ukrainian": "потребувати"
+    },
+    {
+      "batch_number": 2,
+      "number": 8,
+      "english": "feel",
+      "ukrainian": "відчувати"
+    },
+    {
+      "batch_number": 2,
+      "number": 9,
+      "english": "choose",
+      "ukrainian": "обирати"
+    },
+    {
+      "batch_number": 2,
+      "number": 10,
+      "english": "describe",
+      "ukrainian": "описувати"
     }
   ]
 }
